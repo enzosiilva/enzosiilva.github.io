@@ -1,0 +1,17 @@
+{
+  "name": "q2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reduce": "^1.0.3",
+    "source-map-js": "^1.2.1"
+  }
+}
